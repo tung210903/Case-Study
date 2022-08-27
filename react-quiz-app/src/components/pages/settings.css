@@ -1,0 +1,26 @@
+.title{
+    padding: 20px 215px 20px 215px;
+    font-weight: bold;
+    margin: 50px auto;
+}
+.icon{
+    margin-top: -150px;
+}
+.title2{
+    color:  #22B01E;
+    font-size: 50px;
+    margin-top: -10px;
+}
+.title3{
+    margin: 20px 500px 20px 500px;
+    background-color: #F3F7F7;
+    padding-bottom: 50px;
+    
+}
+.title4 {
+    font-size: 38px;
+    padding-top: 50px;
+    
+    font-weight: lighter;
+    opacity:  0.5;
+}
